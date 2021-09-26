@@ -2,12 +2,10 @@ import React from 'react';
 import './Visit.css';
 
 const Visit = (props) => {
-    // console.log(props.visit);
     const { visit } = props;
     let total = 0;
     for (const animal of visit){
         total = total + animal.cost;
-    //     console.log(props.visit);
     }
     return (
         <div className="visit">
