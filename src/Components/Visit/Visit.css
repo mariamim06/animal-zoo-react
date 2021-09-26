@@ -1,0 +1,9 @@
+.visit{
+    background-color: rgb(201, 235, 248);
+    padding: 25px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.visit-title{
+    color: rgb(39, 38, 105);
+}

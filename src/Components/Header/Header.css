@@ -1,10 +1,11 @@
 .App-header {
     text-align: center;
     background-color: #172644;
-    color: rgb(201, 235, 248);
+    color: rgb(204, 240, 241);
     padding: 20px;
     margin: 10px;
+    border-radius: 10px;
   }
   .highlighted-word {
-    color:cyan;
+    color:rgb(225, 248, 195);
   }

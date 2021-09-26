@@ -10,7 +10,7 @@ const Visit = (props) => {
     //     console.log(props.visit);
     }
     return (
-        <div>
+        <div className="visit">
         <h2 className="visit-title">Counter for Visit</h2>
         <h3>Animals selected: {props.visit.length}</h3>
         <h3>Total cost: {total} </h3>

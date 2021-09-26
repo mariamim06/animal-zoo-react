@@ -20,8 +20,8 @@
     },
     "img": "images/cockatiel.jpg", 
     "age" : "20 years",
-    "origin" : "Bangladesh",
-    "cost": 15
+    "origin" : "India",
+    "cost": 21
   },
   { "key": "3",
     "name": "Jhon",
@@ -32,8 +32,8 @@
     },
     "img": "images/dear.jpg", 
     "age" : "20 years",
-    "origin" : "Bangladesh",
-    "cost": 15
+    "origin" : "Australia",
+    "cost": 12
   },
   { "key": "4",
     "name": "Gollu",
@@ -45,7 +45,7 @@
     "img": "images/elephant.jpg", 
     "age" : "20 years",
     "origin" : "Bangladesh",
-    "cost": 15
+    "cost": 11
   },
   { "key": "5",
     "name": "Fairy",
@@ -56,7 +56,7 @@
     },
     "img": "images/flamingo.jpg", 
     "age" : "20 years",
-    "origin" : "Bangladesh",
+    "origin" : "Africa",
     "cost": 15
   },
   { "key": "6",
@@ -69,7 +69,7 @@
     "img": "images/giraffe.jpg", 
     "age" : "20 years",
     "origin" : "Bangladesh",
-    "cost": 15
+    "cost": 10
   },
   { "key": "7",
     "name": "Vibo",
@@ -81,7 +81,7 @@
     "img": "images/gorilla.jpg", 
     "age" : "20 years",
     "origin" : "Bangladesh",
-    "cost": 15
+    "cost": 22
   },
   { "key": "8",
     "name": "Bahadur",
@@ -93,7 +93,7 @@
     "img": "images/hippo.jpg", 
     "age" : "20 years",
     "origin" : "Bangladesh",
-    "cost": 15
+    "cost": 18
   },
   { "key": "9",
     "name": "Beer",
@@ -105,7 +105,7 @@
     "img": "images/lion.jpg", 
     "age" : "20 years",
     "origin" : "Bangladesh",
-    "cost": 15
+    "cost": 6
   },
   { "key": "10",
     "name": "Barb",
@@ -116,8 +116,8 @@
     },
     "img": "images/panda.jpg", 
     "age" : "20 years",
-    "origin" : "Bangladesh",
-    "cost": 15
+    "origin" : "China",
+    "cost": 26
   },
   { "key": "11",
     "name": "Ranga",
@@ -129,7 +129,7 @@
     "img": "images/peacock.jpg", 
     "age" : "20 years",
     "origin" : "Bangladesh",
-    "cost": 15
+    "cost": 24
   },
   { "key": "12",
     "name": "Shilli",
@@ -141,7 +141,7 @@
     "img": "images/rabit.jpg", 
     "age" : "20 years",
     "origin" : "Bangladesh",
-    "cost": 15
+    "cost": 27
   },
   { "key": "13",
     "name": "Liku",
@@ -153,7 +153,7 @@
     "img": "images/squirrel.jpeg", 
     "age" : "20 years",
     "origin" : "Bangladesh",
-    "cost": 15
+    "cost": 12
   },
   { "key": "14",
     "name": "Halum",
