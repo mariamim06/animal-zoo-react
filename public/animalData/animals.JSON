@@ -1,0 +1,194 @@
+[
+    { "key": "1",
+      "name": "chao",
+      "species" : "Cheeta",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/cheetah.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "2",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/cockatiel.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "3",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/dear.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "4",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/elephant.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "5",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/flamingo.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "6",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/giraffe.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "7",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/gorilla.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "8",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/hippo.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "9",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/lion.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "10",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/panda.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "11",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/peacock.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "12",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/rabit.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "13",
+      "name": "Cocka",
+      "species" : "Cockatiel",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/squirrel.jpeg.jpg", 
+      "age" : "20 years",
+      "origin" : "Bangladesh",
+      "visit": "$15"
+    },
+    { "key": "14",
+      "name": "Halum",
+      "species" : "Tiger",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/tiger.jpg", 
+      "age" : "15 years",
+      "origin" : "Bangladesh",
+      "visit": "$21"
+    },
+    { "key": "15",
+      "name": "Toka-toka",
+      "species" : "Toucan",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/toucan.jpg", 
+      "age" : "6 years",
+      "origin" : "England",
+      "visit": "$7"
+    },
+    { "key": "16",
+      "name": "Purrpaws",
+      "species" : "Turtle",
+      "foods": {
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
+      },
+      "img": "images/turtle.jpg", 
+      "age" : "135 years",
+      "origin" : "Bangladesh",
+      "visit": "$56"
+    }
+  ]
