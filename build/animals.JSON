@@ -1,0 +1,194 @@
+[
+  { "key": "1",
+    "name": "chao",
+    "species" : "Cheeta",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/cheetah.jpg", 
+    "age" : "20 years",
+    "origin" : "Bangladesh",
+    "cost": 15
+  },
+  { "key": "2",
+    "name": "Cocka",
+    "species" : "Cockatiel",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/cockatiel.jpg", 
+    "age" : "20 years",
+    "origin" : "India",
+    "cost": 21
+  },
+  { "key": "3",
+    "name": "Jhon",
+    "species" : "Dear",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/dear.jpg", 
+    "age" : "20 years",
+    "origin" : "Australia",
+    "cost": 12
+  },
+  { "key": "4",
+    "name": "Gollu",
+    "species" : "Elephant",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/elephant.jpg", 
+    "age" : "20 years",
+    "origin" : "Bangladesh",
+    "cost": 11
+  },
+  { "key": "5",
+    "name": "Fairy",
+    "species" : "Flamingo",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/flamingo.jpg", 
+    "age" : "20 years",
+    "origin" : "Africa",
+    "cost": 15
+  },
+  { "key": "6",
+    "name": "Gorge",
+    "species" : "Giraffe",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/giraffe.jpg", 
+    "age" : "20 years",
+    "origin" : "Bangladesh",
+    "cost": 10
+  },
+  { "key": "7",
+    "name": "Vibo",
+    "species" : "Gorilla",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/gorilla.jpg", 
+    "age" : "20 years",
+    "origin" : "Bangladesh",
+    "cost": 22
+  },
+  { "key": "8",
+    "name": "Bahadur",
+    "species" : "Hippopotamous",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/hippo.jpg", 
+    "age" : "20 years",
+    "origin" : "Bangladesh",
+    "cost": 18
+  },
+  { "key": "9",
+    "name": "Beer",
+    "species" : "Lion",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/lion.jpg", 
+    "age" : "20 years",
+    "origin" : "Bangladesh",
+    "cost": 6
+  },
+  { "key": "10",
+    "name": "Barb",
+    "species" : "Panda",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/panda.jpg", 
+    "age" : "20 years",
+    "origin" : "China",
+    "cost": 26
+  },
+  { "key": "11",
+    "name": "Ranga",
+    "species" : "Peacock",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/peacock.jpg", 
+    "age" : "20 years",
+    "origin" : "Bangladesh",
+    "cost": 24
+  },
+  { "key": "12",
+    "name": "Shilli",
+    "species" : "Rabit",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/rabit.jpg", 
+    "age" : "20 years",
+    "origin" : "Bangladesh",
+    "cost": 27
+  },
+  { "key": "13",
+    "name": "Liku",
+    "species" : "Squirrel",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/squirrel.jpeg", 
+    "age" : "20 years",
+    "origin" : "Bangladesh",
+    "cost": 12
+  },
+  { "key": "14",
+    "name": "Halum",
+    "species" : "Tiger",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/tiger.jpg", 
+    "age" : "15 years",
+    "origin" : "Bangladesh",
+    "cost": 21
+  },
+  { "key": 15,
+    "name": "Toka-toka",
+    "species" : "Toucan",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/toucan.jpg", 
+    "age" : "6 years",
+    "origin" : "England",
+    "cost": 7
+  },
+  { "key": "16",
+    "name": "Purrpaws",
+    "species" : "Turtle",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    },
+    "img": "images/turtle.jpg", 
+    "age" : "135 years",
+    "origin" : "Bangladesh",
+    "cost": 6
+  }
+]

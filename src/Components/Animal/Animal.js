@@ -15,7 +15,7 @@ const Animal = (props) => {
             <h3>Species: {species}</h3>
             <h3>Age: {age}</h3>
             <h3>Origin: {origin}</h3>
-            <h3>Visit cost:{cost}</h3>
+            <h3>Visit cost: ${cost}</h3>
             <button 
            onClick={() => props.handleAddToVisit(props.animal)}
             className="btn"
